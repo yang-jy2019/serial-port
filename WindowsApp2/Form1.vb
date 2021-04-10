@@ -9,10 +9,10 @@ Public Class Form1
         baudratebox.SelectedIndex() = 0
         portnamebox.SelectedIndex() = 0
         Serial_Port1()
-        Label3.Text = SerialPort1.IsOpen
+        Label7.Text = SerialPort1.IsOpen
         statuslabel.Text = "串口未连接"
         statuslabel.ForeColor = Color.Red
-        sendbox.Text = "123"
+        sendbox.Text = "请输入"
 
     End Sub
 
