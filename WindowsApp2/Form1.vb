@@ -12,8 +12,7 @@ Public Class Form1
         Label7.Text = SerialPort1.IsOpen
         statuslabel.Text = "串口未连接"
         statuslabel.ForeColor = Color.Red
-        sendbox.Text = "请输入信息"
-        sendbox.Text = "请输入"
+        sendbox.Text = "请输入发送信息"
 
     End Sub
 

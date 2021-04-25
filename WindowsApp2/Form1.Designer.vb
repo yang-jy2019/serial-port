@@ -100,14 +100,14 @@ Partial Class Form1
         '
         Me.sendbox.Location = New System.Drawing.Point(126, 195)
         Me.sendbox.Name = "sendbox"
-        Me.sendbox.Size = New System.Drawing.Size(100, 25)
+        Me.sendbox.Size = New System.Drawing.Size(166, 25)
         Me.sendbox.TabIndex = 6
         '
         'receivebox
         '
         Me.receivebox.Location = New System.Drawing.Point(126, 247)
         Me.receivebox.Name = "receivebox"
-        Me.receivebox.Size = New System.Drawing.Size(100, 25)
+        Me.receivebox.Size = New System.Drawing.Size(166, 25)
         Me.receivebox.TabIndex = 7
         '
         'Label3
@@ -130,7 +130,7 @@ Partial Class Form1
         '
         'sendbtn
         '
-        Me.sendbtn.Location = New System.Drawing.Point(257, 196)
+        Me.sendbtn.Location = New System.Drawing.Point(328, 195)
         Me.sendbtn.Name = "sendbtn"
         Me.sendbtn.Size = New System.Drawing.Size(75, 23)
         Me.sendbtn.TabIndex = 10
